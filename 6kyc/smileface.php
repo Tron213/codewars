@@ -1,3 +1,4 @@
+<?php
 function count_smileys($arr): int {
     $smileface = 0;
     foreach($arr as $value) {
